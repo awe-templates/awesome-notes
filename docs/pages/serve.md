@@ -1,8 +1,10 @@
-# Serve
+# 🕹️ Serve
 
-## Serving Static Files
+Test your application locally before deploying it to the cloud.
 
-[serve](https://github.com/vercel/serve) is a static file server for single-page applications, designed to be used with the [Vercel](https://vercel.com) platform.
+## 🌍 Serving Static Files
+
+**[serve](https://github.com/vercel/serve)** is a static file server for single-page applications, designed to be used with the [Vercel](https://vercel.com) platform.
 
 Install `serve` globally:
 
