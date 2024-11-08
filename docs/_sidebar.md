@@ -1,2 +1,2 @@
 * [Home](/)
-* [Quick Start](pages/quick-start.md)
+* [Serve](pages/serve.md)
