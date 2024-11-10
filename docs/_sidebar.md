@@ -2,4 +2,4 @@
 * [🕹️ Serve](pages/serve.md)
 * [🔄 Update](pages/update.md)
 * [➕ Extensions](pages/extensions.md)
-* [🧬 Technologies](pages/technologies.md)
+* [🧬 Libraries](pages/libraries.md)

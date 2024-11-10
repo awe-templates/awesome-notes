@@ -1,4 +1,4 @@
-# 🧬 Technologies
+# 🧬 Libraries
 
 ## ⚙️ Vite
 
