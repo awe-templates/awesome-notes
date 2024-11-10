@@ -16,3 +16,9 @@ Supported tools:
 - [React](https://github.com/vitejs/vite-plugin-react-swc)
 
 > Currently, SWC is not supported by Vue. See issue [#12356](https://github.com/vitejs/vite/issues/12356).
+
+## 🧪 Testing
+
+### Vitest
+
+**[Vitest](https://vitest.dev/)** is a Vite powered **fast**, **lightweight**, and **minimal** testing framework. It's a great alternative to *Jest* and Mocha.
