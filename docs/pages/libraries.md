@@ -1,5 +1,11 @@
 # 🧬 Libraries
 
+## 📦 Package Manager
+
+### PNPM
+
+**[PNPM](https://pnpm.io/)** is a fast, disk space efficient package manager. It's a great alternative to NPM and Yarn. PNPM uses a **[content-addressable](https://pnpm.io/motivation)** store to keep dependencies. It's a great choice for monorepo projects.
+
 ## 🔥 Bundler/Compiler
 
 ### Vite
