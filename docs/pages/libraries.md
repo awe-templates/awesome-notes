@@ -28,3 +28,9 @@ Supported tools:
 ### Vitest
 
 **[Vitest](https://vitest.dev/)** is a Vite powered **fast**, **lightweight**, and **minimal** testing framework. It's a great alternative to *Jest* and Mocha.
+
+## ✅ Linter/Fomatter
+
+### ESLint
+
+**[ESLint](https://eslint.org/)** is a static code analysis tool for identifying problematic patterns found in JavaScript code. It's a great choice for modern web projects.
