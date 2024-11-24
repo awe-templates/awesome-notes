@@ -12,3 +12,7 @@
 ## ✅ Formatters
 
 - **[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)** is a code formatter that helps you format your code automatically.
+
+## ⚡ Misc
+
+- **[Terminals Manager](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-terminals)** is a terminal manager. It allows you to create, manage, and run terminals in the editor with `.vscode/terminals.json` config. When you open containing folder, it will automatically start the terminals.
