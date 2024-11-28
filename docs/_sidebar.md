@@ -3,4 +3,5 @@
 * [🔄 Update](pages/update.md)
 * [➕ Extensions](pages/extensions.md)
 * [🧬 Libraries](pages/libraries.md)
+* [📁 Folder Structure](pages/folder-structure.md)
 * [🔢 Ports](pages/ports.md)
