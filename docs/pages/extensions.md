@@ -12,3 +12,11 @@
 ## ✅ Formatters
 
 - **[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)** is a code formatter that helps you format your code automatically.
+
+## ⚡ Misc
+
+- **[Terminals Manager](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-terminals)** is a terminal manager. It allows you to create, manage, and run terminals in the editor with `.vscode/terminals.json` config. When you open containing folder, it will automatically start the terminals.
+
+## 🌈 Styling
+
+- **[Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)** is a Visual Studio Code extension that subtly changes the workspace color of your workspace. Ideal when you have multiple VS Code instances and you want to quickly identify which is which. Run `Peacock: random color or enter color` command with `F1` (*`Cmd+Shift+P` on macOS*) to change the color of the workspace.

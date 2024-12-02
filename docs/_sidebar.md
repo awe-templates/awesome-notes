@@ -1,6 +1,7 @@
 * [🏠 Home](/)
 * [🕹️ Serve](pages/serve.md)
 * [🔄 Update](pages/update.md)
+* [🧰 Tools](pages/tools.md)
 * [➕ Extensions](pages/extensions.md)
 * [🧬 Libraries](pages/libraries.md)
 * [📁 Folder Structure](pages/folder-structure.md)
