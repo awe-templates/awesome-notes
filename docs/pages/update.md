@@ -12,7 +12,7 @@ npx --yes npm-check-updates --packageManager npm --target minor -u
 
 ## 🛠 Manual
 
-**[Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)** is a Visual Studio Code extension that allows you to see and update your project's dependencies.
+**[Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)** is a Visual Studio Code extension that allows you to see and update your project's dependencies. It's very useful for refactoring and updating your project.
 
 ## 🔗 References
 
