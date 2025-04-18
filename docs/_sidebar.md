@@ -2,6 +2,7 @@
 * [🕹️ Serve](pages/serve.md)
 * [🔄 Update](pages/update.md)
 * [🧰 Tools](pages/tools.md)
+* [💻 VS Code](pages/vs-code.md)
 * [➕ Extensions](pages/extensions.md)
 * [🧬 Libraries](pages/libraries.md)
 * [📁 Folder Structure](pages/folder-structure.md)
