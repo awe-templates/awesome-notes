@@ -7,3 +7,4 @@
 * [🧬 Libraries](pages/libraries.md)
 * [📁 Folder Structure](pages/folder-structure.md)
 * [🔢 Ports](pages/ports.md)
+* [🎭 Act](pages/act.md)
