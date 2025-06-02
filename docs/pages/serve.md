@@ -1,6 +1,6 @@
 # 🕹️ Serve
 
-Test your application locally before deploying it to the cloud.
+Test your application locally before deploying it to the server/cloud.
 
 ## 🌍 Serving Static Files
 
