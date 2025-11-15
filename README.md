@@ -9,7 +9,11 @@ This repo contains various notes and recipes for those who want to produce a new
 First of all, you need to install the `docsify-cli` globally. You can do this using either `pnpm` or `npm`. Here is the command:
 
 ```bash
-pnpm|npm i docsify-cli -g
+pnpm i docsify-cli -g
+
+# or
+
+npm i docsify-cli -g
 ```
 
 Start documentation using the following command:
