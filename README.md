@@ -1,27 +1,44 @@
 # Awesome Notes
 
-Software tools are evolving at *incredible speeds*. It is impossible to catch all of them. With the experience we have accumulated over the years, we have prepared many starter templates to save your time. You can find them [?q=starter-template](https://github.com/orgs/awe-templates/repositories?q=starter-template). Our goal is to increase our speed and productivity and create more sustainable development environments.
+Software tools are evolving at *incredible speeds*. It is impossible to catch all of them. With the experience we have accumulated over the years, we have prepared many starter templates to save your time. You can find them [here](https://github.com/orgs/awe-templates/repositories?q=starter-template). Our goal is to increase our speed and productivity and create more sustainable development environments.
 
 This repo contains various notes and recipes for those who want to produce a new starter template. We share with you the information and experiences that you will frequently use when preparing a starter template.
 
-## Start Documentation Server
+## 📖 Documentation
 
-First of all, you need to install the `docsify-cli` globally. You can do this using either `pnpm` or `npm`. Here is the command:
+Visit the documentation at: **<https://awe-templates.github.io/awesome-notes/>**
+
+## 🚀 Development
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (v18+)
+- [pnpm](https://pnpm.io/)
+
+### Install Dependencies
 
 ```bash
-pnpm i docsify-cli -g
-
-# or
-
-npm i docsify-cli -g
+pnpm install
 ```
 
-Start documentation using the following command:
+### Start Development Server
 
 ```bash
-pnpm dlx docsify-cli serve docs --port 1000
-
-# or
-
-npx docsify serve docs --port 1000
+pnpm docs:dev
 ```
+
+### Build for Production
+
+```bash
+pnpm docs:build
+```
+
+### Preview Production Build
+
+```bash
+pnpm docs:preview
+```
+
+## 📝 License
+
+[MIT](./LICENSE)

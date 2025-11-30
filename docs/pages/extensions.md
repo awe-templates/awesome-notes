@@ -2,7 +2,7 @@
 
 [VS Code](https://code.visualstudio.com/) [extensions](https://marketplace.visualstudio.com/vscode) are that help you manage your project's and your [development experience](https://github.blog/enterprise-software/collaboration/developer-experience-what-is-it-and-why-should-you-care/). This page will guide you through the process of installing and using them.
 
-> Also, you can suggest your own extensions in [extensions.json](/pages/vs-code.md?id=📍-extensionsjson).
+> Also, you can suggest your own extensions in [extensions.json](/pages/vs-code#📍-vscodeextensionsjson).
 
 ## 🔍 Linters
 
