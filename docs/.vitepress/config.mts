@@ -21,26 +21,26 @@ export default defineConfig({
       {
         text: "Getting Started",
         items: [
-          { text: "🏠 Home", link: "/" },
-          { text: "🕹️ Serve", link: "/pages/serve" },
-          { text: "🔄 Update", link: "/pages/update" },
+          { text: "Home", link: "/" },
+          { text: "Serve", link: "/pages/serve" },
+          { text: "Update", link: "/pages/update" },
         ],
       },
       {
         text: "Development",
         items: [
-          { text: "🧰 Tools", link: "/pages/tools" },
-          { text: "💻 VS Code", link: "/pages/vs-code" },
-          { text: "➕ Extensions", link: "/pages/extensions" },
-          { text: "🧬 Libraries", link: "/pages/libraries" },
+          { text: "Tools", link: "/pages/tools" },
+          { text: "VS Code", link: "/pages/vs-code" },
+          { text: "Extensions", link: "/pages/extensions" },
+          { text: "Libraries", link: "/pages/libraries" },
         ],
       },
       {
         text: "Reference",
         items: [
-          { text: "📁 Folder Structure", link: "/pages/folder-structure" },
-          { text: "🔢 Ports", link: "/pages/ports" },
-          { text: "🤖 Act", link: "/pages/act" },
+          { text: "Folder Structure", link: "/pages/folder-structure" },
+          { text: "Ports", link: "/pages/ports" },
+          { text: "Act", link: "/pages/act" },
         ],
       },
     ],
