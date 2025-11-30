@@ -38,7 +38,3 @@ pnpm docs:build
 ```bash
 pnpm docs:preview
 ```
-
-## 📝 License
-
-[MIT](./LICENSE)
