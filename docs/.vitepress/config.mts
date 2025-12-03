@@ -36,6 +36,10 @@ export default defineConfig({
         ],
       },
       {
+        text: "Documentation",
+        items: [{ text: "Vitepress", link: "/documentation/vitepress" }],
+      },
+      {
         text: "Reference",
         items: [
           { text: "Folder Structure", link: "/pages/folder-structure" },
