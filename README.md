@@ -24,17 +24,17 @@ pnpm install
 ### Start Development Server
 
 ```bash
-pnpm docs:dev
+pnpm dev
 ```
 
 ### Build for Production
 
 ```bash
-pnpm docs:build
+pnpm build
 ```
 
 ### Preview Production Build
 
 ```bash
-pnpm docs:preview
+pnpm preview
 ```
