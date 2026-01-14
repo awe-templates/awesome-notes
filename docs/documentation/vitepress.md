@@ -15,3 +15,4 @@ pnpm dlx vitepress dev
 ## Plugins
 
 - [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): A VitePress plugin for rendering Mermaid diagrams.
+- [vitepress-plugin-llms](https://github.com/okineadev/vitepress-plugin-llms): A VitePress plugin for generating LLM-friendly documentation
