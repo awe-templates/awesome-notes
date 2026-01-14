@@ -31,3 +31,10 @@ features:
     details: Recommended libraries and frameworks for your projects.
     link: /pages/libraries
 ---
+
+## LLM-Friendly Documentation
+
+This documentation is optimized for Large Language Models. Access our content in machine-readable formats:
+
+- [`/llms.txt`](/llms.txt) - Table of contents with links to all pages
+- [`/llms-full.txt`](/llms-full.txt) - Complete documentation in a single file

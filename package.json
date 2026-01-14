@@ -10,7 +10,8 @@
   },
   "devDependencies": {
     "@types/node": "^24.10.1",
-    "vitepress": "^1.6.4"
+    "vitepress": "^1.6.4",
+    "vitepress-plugin-llms": "^1.10.0"
   },
   "repository": {
     "type": "git",
